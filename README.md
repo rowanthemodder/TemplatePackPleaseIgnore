@@ -1,10 +1,10 @@
 ## Pack Development Guidelines
-#### Edit recipes:
-CraftTweaker scripts (/scripts)
-#### Create new items:
-ContentTweaker scripts (/scripts)
-#### Remove items/data:
-CraftTweaker scripts (/scripts)
+#### Edit recipes
+Craft Tweaker scripts (/scripts)
+#### Create new items
+Content Tweaker scripts (/scripts)
+#### Remove items/data
+Craft Tweaker scripts (/scripts)
 
 Malek’s Infinity Gauntlet (config/malekremoveregistries.txt)
 #### Add non-CurseForge mods and files
@@ -14,15 +14,17 @@ CraftTweaker Dropt scripts (/scripts)
 #### Edit/create structures
 Pillar Patched (/pillar)
 #### Edit mob drops
-LootTweaker scripts (/scripts)
+Loot Tweaker scripts (/scripts)
 #### Default keybindings/settings
 Default Options (config/defaultoptions)
 #### Edit tool/weapon stats
-MaterialChanger (config/materialchanger.cfg)
+Material Changer (config/materialchanger.cfg)
 #### Edit chest loot tables
 Copy-Paste (config/copy)
 #### Edit chat messages
-ChatFlow (edit keybinding for GUI)
+Chat Flow (edit keybinding for GUI)
+#### Gating
+Zen Stages (/scripts)
 #### Releasing/polishing
 It’s the little things (config/itlt.cfg)
 
@@ -39,6 +41,4 @@ Universal Tweaks (config/Universal Tweaks - [category].cfg)
 Global GameRules (globalgamerules.cfg)
 
 Corpse Complex (corpsecomplex.cfg)
-
-GameStages scripts
 
