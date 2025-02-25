@@ -24,7 +24,7 @@ Copy-Paste (config/copy)
 #### Edit chat messages
 Chat Flow (edit keybinding for GUI)
 #### Gating
-Zen Stages (/scripts)
+[Zen Stages](https://docs.blamejared.com/1.12/en/Mods/GameStages/ZenStages/ZenStages/) (/scripts)
 #### Releasing/polishing
 It’s the little things (config/itlt.cfg)
 
