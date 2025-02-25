@@ -30,3 +30,4 @@ simple-rpc/server-entries.toml
 concheckrmd
 icon.png
 /config/spark/tmp
+ears-debug.log
